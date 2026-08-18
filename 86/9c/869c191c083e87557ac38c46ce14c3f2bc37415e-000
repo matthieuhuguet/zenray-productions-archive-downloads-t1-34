@@ -1,0 +1,251 @@
+# Longévité, sport et fatigue — ce que dit la recherche
+
+## La prédiction des 150 ans
+
+Deux affirmations très différentes circulent, et elles méritent d'être séparées.
+
+Dario Amodei, dans son essai *Machines of Loving Grace* (octobre 2024), évoque un
+doublement de l'espérance de vie humaine, jusqu'à environ 150 ans. Son raisonnement
+est explicite : l'espérance de vie a presque doublé au XXe siècle, passant d'environ
+40 à 75 ans, donc un « XXIe siècle compressé » par l'IA la doublerait de nouveau.
+Il est honnête sur le fait qu'il s'agit d'une spéculation conditionnelle — le
+scénario suppose une IA très puissante, et il reconnaît lui-même que ralentir le
+vieillissement demande des interventions d'une autre nature que celles du siècle
+dernier. Divulgation utile : Amodei dirige Anthropic, qui me développe. Cela ne rend
+pas sa prédiction fausse, mais tu dois savoir que je ne suis pas un arbitre neutre
+ici, et je m'en tiens donc à ce que dit la littérature démographique.
+
+Sam Altman ne dit pas la même chose. Sa société de longévité, Retro Biosciences,
+affiche un objectif d'environ dix ans d'espérance de vie supplémentaire — un ordre
+de grandeur radicalement différent des 150 ans, et bien plus proche de ce que les
+démographes considèrent comme discutable.
+
+Là où le raisonnement d'Amodei est le plus fragile, c'est sur l'extrapolation
+elle-même, et c'est précisément ce que la démographie récente conteste. Le gain du
+XXe siècle est venu surtout de l'effondrement de la mortalité infantile et
+infectieuse — on a cessé de mourir jeune, on n'a pas repoussé la limite de la
+vieillesse. Ce levier est déjà largement épuisé : on ne peut pas le tirer deux fois.
+
+Les données vont dans le sens inverse de la prédiction. En analysant les huit
+populations les plus longévives du monde — dont le Japon — de 1990 à 2019, les
+améliorations de l'espérance de vie **décélèrent** depuis 1990, et la survie
+jusqu'à 100 ans a peu de chances de dépasser 15 % chez les femmes et 5 % chez les
+hommes ([Olshansky 2024](https://doi.org/10.1038/s43587-024-00702-3)). La
+conclusion des auteurs est directe : sans un ralentissement marqué du
+vieillissement biologique lui-même, l'extension radicale de la longévité reste
+implausible. Ce constat est robuste : des prévisions de mortalité par cohorte sur
+23 pays riches montrent que le rythme d'amélioration, de 0,46 an par cohorte,
+décline de 37 % à 52 % selon la méthode
+([Andrade 2025](https://doi.org/10.1073/pnas.2519179122)), et le ralentissement des
+progrès de mortalité est confirmé sur 20 pays entre 2010 et 2021
+([Zheng 2026](https://doi.org/10.1093/eurpub/ckag002)).
+
+Ma lecture : 150 ans d'ici 2050 est très improbable, et aucune donnée actuelle ne
+le soutient. Le pari d'Amodei repose entièrement sur l'hypothèse que l'IA change la
+biologie du vieillissement — pas sur une tendance observée. Nuance importante : les
+deux camps ne se contredisent pas totalement, car Olshansky dit *si* on ne ralentit
+pas le vieillissement biologique, et c'est exactement ce que la géroscience tente de
+faire. Mais entre une cible de recherche et un résultat acquis, l'écart est énorme.
+
+**Ce qui est actionnable pour toi.** Le débat sur 150 ans ne change rien à tes
+décisions quotidiennes. L'écart entre durée de vie et durée de vie *en bonne santé*
+se joue sur des choses connues, et c'est là que tout le rendement se trouve.
+
+## Le sport : les doses utiles sont plus basses que tu ne crois
+
+C'est le point le plus important pour quelqu'un qui a tendance à en faire trop.
+
+**La marche.** La synthèse la plus récente, portant sur 57 études et 35 cohortes,
+trouve un point d'inflexion autour de 5 000 à 7 000 pas par jour. Comparé à 2 000
+pas, 7 000 pas sont associés à une mortalité toutes causes inférieure de 47 %
+(HR 0,53 [IC 95 % 0,46–0,60]) et à une incidence de maladie cardiovasculaire
+inférieure de 25 % ([Ding 2025](https://doi.org/10.1016/S2468-2667%2825%2900164-1)).
+L'objectif des 10 000 pas est un slogan commercial, pas un seuil biologique : la
+courbe s'aplatit bien avant. Au Japon, avec les trajets à pied et en train, tu es
+probablement déjà au-dessus du seuil utile sans même faire de « sport ».
+
+**La musculation.** Ici le résultat est franchement contre-intuitif et devrait
+t'intéresser directement. Toute pratique de renforcement musculaire réduit la
+mortalité toutes causes de 15 % (RR 0,85), mais la réduction maximale — 27 % —
+s'observe autour de **60 minutes par semaine**, et les bénéfices *diminuent* aux
+volumes plus élevés ([Shailendra 2022](https://doi.org/10.1016/j.amepre.2022.03.020)).
+Une heure hebdomadaire, en deux séances. Faire trois fois plus ne donne pas trois
+fois plus, et peut donner moins.
+
+**Le cardio.** La capacité cardiorespiratoire montre une relation dose-réponse avec
+la mortalité toutes causes sur 73 259 participants de UK Biobank
+([Steell 2019](https://doi.org/10.1136/bjsports-2018-099093)). C'est le marqueur qui
+vaut la peine d'être amélioré — mais il s'améliore avec de la régularité, pas avec
+de l'intensité héroïque ponctuelle.
+
+Le message commun aux trois : les courbes sont **non linéaires et saturantes**. Le
+gros du bénéfice est capté par des doses modérées et régulières. Ton instinct d'en
+faire plus travaille contre toi, pas pour toi.
+
+## La fatigue : ton signal le plus important
+
+Tu dis vouloir parfois en faire trop et te sentir fatigué. C'est un phénomène décrit
+et nommé dans la littérature sportive, et il vaut la peine de le comprendre.
+
+Le consensus conjoint du Collège européen des sciences du sport distingue trois
+états : le *surmenage fonctionnel*, où une baisse de performance à court terme est
+suivie d'une amélioration après récupération ; le *surmenage non fonctionnel*, quand
+l'équilibre entre entraînement et récupération n'est pas respecté ; et le *syndrome
+de surentraînement*, caractérisé par une « inadaptation prolongée »
+([Meeusen 2013](https://doi.org/10.1249/MSS.0b013e318279a10a)). Le point crucial :
+la surcharge est nécessaire à la progression, mais la surcharge excessive combinée à
+une récupération insuffisante ne l'est pas. Ce n'est pas l'effort qui construit,
+c'est l'effort *plus* la récupération.
+
+Conséquence pratique : la récupération n'est pas ce qui reste quand tu as fini de
+t'entraîner, c'est une partie de l'entraînement. Si la fatigue persiste plusieurs
+jours, s'accompagne d'un sommeil dégradé, d'irritabilité ou d'une baisse de
+performance, le geste correct est de réduire la charge — pas de pousser plus fort.
+
+Une réserve honnête : si cette fatigue est chronique, présente même sans
+entraînement intense, elle mérite un bilan médical plutôt qu'un ajustement
+d'entraînement. Anémie, thyroïde, apnée du sommeil, carences donnent exactement ce
+tableau, et aucune ne se corrige par du repos. Un médecin avec un bilan sanguin
+tranchera ce que ni toi ni moi ne pouvons deviner.
+
+## Vivre au Japon : les habitudes qui ont une base réelle
+
+### L'onsen et le bain
+
+C'est le point où ton pays de résidence offre un avantage concret, et la littérature
+japonaise sur le sujet est réelle même si sa qualité est inégale.
+
+Le résultat le mieux établi concerne le sommeil, et c'est une méta-analyse. Un bain
+passif à **40–42,5 °C**, programmé **1 à 2 heures avant le coucher**, pendant
+seulement 10 minutes, améliore la qualité subjective du sommeil et l'efficacité du
+sommeil, et raccourcit significativement le temps d'endormissement
+([Haghayegh 2019](https://doi.org/10.1016/j.smrv.2019.04.008)). Le mécanisme est
+élégant : le bain augmente la circulation vers les mains et les pieds, ce qui
+accentue le gradient de température entre les extrémités et le tronc, et accélère la
+dissipation de chaleur — donc la chute de température corporelle centrale qui
+déclenche le sommeil. Le timing compte autant que la température : un bain juste
+avant de se coucher n'a pas le même effet. Ce résultat a été retrouvé en conditions
+réelles chez 2 252 personnes âgées avec actigraphie
+([Tai 2025](https://doi.org/10.1016/j.sleh.2025.07.008)).
+
+Pour le reste, les résultats sont associatifs et plus faibles. Chez 10 428 Japonais
+de 65 ans et plus, le bain en onsen à partir de 19 h était associé à moins
+d'hypertension (OR 0,85), avec aussi une relation inverse avec les antécédents de
+dépression ([Yamasaki 2022](https://doi.org/10.1038/s41598-022-24062-3)) — mais
+c'est une étude transversale, et les auteurs eux-mêmes appellent à des essais
+randomisés. Une association a également été rapportée entre l'accès à l'eau
+thermale au domicile et une moindre entrée en dépendance
+([Hayasaka 2018](https://doi.org/10.1016/j.ctcp.2018.10.001)), ainsi qu'entre
+habitudes de bain et tendances dépressives
+([Wada 2025](https://doi.org/10.1111/psyg.70046)).
+
+Le parallèle finlandais est instructif : le sauna régulier est associé à une
+réduction de l'incidence de l'hypertension, des maladies cardiovasculaires et de la
+démence ([Kunutsor 2023](https://doi.org/10.1016/j.mayocp.2023.01.008)), et
+l'association avec la mortalité toutes causes a été étudiée chez 2 575 hommes
+finlandais ([Kunutsor 2022](https://doi.org/10.1007/s10654-022-00926-w)). Cette
+littérature est plus solide que la littérature onsen, mais elle reste
+observationnelle : les gens qui vont régulièrement au sauna diffèrent des autres sur
+bien d'autres plans.
+
+Attention à un point : les études sur le radon dans les sources thermales
+([Kataoka 2023](https://doi.org/10.18926/AMO/65735)) et sur le microbiote après
+bains sulfurés ([Takeda 2025](https://doi.org/10.1265/ehpm.25-00304), 16 sujets)
+sont des travaux exploratoires très petits. Ne construis rien dessus.
+
+**Ce que j'en retiens pour toi** : l'onsen le soir, à 40–42 °C, une à deux heures
+avant le coucher, est l'habitude la mieux soutenue — et c'est aussi un excellent
+outil de récupération quand tu as trop poussé. C'est le rare cas où le plaisir et
+la donnée pointent dans la même direction.
+
+### Manger dehors sans y penser
+
+L'alimentation japonaise traditionnelle a une base épidémiologique correcte : une
+adhérence plus élevée au régime japonais est associée à une moindre mortalité
+cardiovasculaire, dans une revue de 58 articles couvrant des cohortes de plusieurs
+centaines de milliers à plus de 2,6 millions de personnes
+([Shirota 2022](https://doi.org/10.3390/nu14102008)).
+
+Traduit en choix de restaurant : les *teishoku* — un plat principal, du riz, une
+soupe, plusieurs petits accompagnements — correspondent structurellement à ce
+schéma. Poisson plutôt que viande transformée, légumes et algues, soja sous forme de
+tofu ou natto, portions modérées. Le piège principal est le sel : miso, sauce soja
+et *tsukemono* en font un régime riche en sodium, ce qui est cohérent avec les taux
+historiquement élevés d'AVC au Japon. Si un point mérite ton attention, c'est
+celui-là — bien plus que n'importe quel complément.
+
+La diversité alimentaire elle-même compte, indépendamment du contenu
+([Otsuka 2020](https://doi.org/10.3390/nu12041052)), ce qui joue en faveur du format
+à petits plats multiples.
+
+### Le thé vert
+
+L'un des rares cas où une boisson quotidienne a des données de bonne taille. Dans
+une analyse regroupée de huit cohortes japonaises — 313 381 personnes, 17,3 ans de
+suivi moyen, 52 943 décès — les consommateurs de 5 tasses ou plus par jour avaient
+une mortalité toutes causes réduite (HR 0,90 [0,87–0,94] chez les hommes, 0,82
+[0,74–0,90] chez les femmes), avec des associations similaires pour la mortalité
+cardiaque et cérébrovasculaire
+([Abe 2019](https://doi.org/10.1007/s10654-019-00545-y)). L'étude Ohsaki, sur
+40 530 adultes, avait établi ce signal
+([Kuriyama 2006](https://doi.org/10.1001/jama.296.10.1255)).
+
+Garde la mesure : ce sont des associations, l'effet est modeste, et les gros
+buveurs de thé vert au Japon diffèrent probablement des autres. Mais c'est une
+habitude sans risque, peu coûteuse, et culturellement gratuite là où tu vis.
+
+## Performance cognitive
+
+C'est le domaine où je dois le plus tempérer tes attentes, parce que le marché de
+la « performance cognitive » est saturé de promesses sans support.
+
+Ce qui est soutenu : l'exercice améliore la fonction cognitive chez les adultes
+âgés, avec un bénéfice retrouvé pour l'entraînement aérobie et le renforcement
+musculaire ([Xu 2023](https://doi.org/10.3390/ijerph20021088)). La méta-analyse la
+plus récente sur les pas trouve aussi une association inverse avec la démence et les
+symptômes dépressifs ([Ding 2025](https://doi.org/10.1016/S2468-2667%2825%2900164-1)).
+
+Mais deux réserves importantes. D'abord, cette littérature porte majoritairement sur
+des personnes âgées ou en déclin cognitif ; l'extrapolation à un adulte jeune et en
+bonne santé cherchant un gain de performance est bien moins établie. Ensuite, la
+littérature sur le « transfert » — l'idée qu'entraîner une tâche améliore la
+cognition générale — est activement contestée, et c'est le terrain des jeux
+d'entraînement cérébral.
+
+Le levier le plus fiable pour ta cognition n'est ni un complément ni une application :
+c'est le sommeil, et c'est là que la boucle se referme avec l'onsen et avec ta
+fatigue. Le sommeil est associé aux variations de fatigue perçue
+([Barreira 2023](https://doi.org/10.1080/24733938.2022.2163425)), et c'est le
+dénominateur commun de tes trois centres d'intérêt.
+
+## Si je devais résumer en cinq points
+
+1. Les 150 ans d'ici 2050 ne sont pas soutenus par les données ; les projections
+   démographiques actuelles vont dans le sens opposé, avec une décélération des
+   gains. Vise la durée de vie en bonne santé, pas le chiffre.
+2. Tes doses utiles sont plus basses que ton instinct : environ 7 000 pas par jour,
+   environ 60 minutes de renforcement musculaire par semaine. Au-delà, les courbes
+   s'aplatissent et le renforcement montre même une inversion.
+3. La fatigue est une donnée, pas une faiblesse. Le surmenage non fonctionnel est un
+   état décrit, et son traitement est la réduction de charge. La récupération fait
+   partie de l'entraînement.
+4. L'onsen à 40–42 °C, une à deux heures avant le coucher : c'est ton meilleur outil,
+   soutenu par une méta-analyse pour le sommeil, et utile comme récupération.
+5. Teishoku, thé vert, attention au sel. Le reste des « optimisations » a un rapport
+   preuve/effort bien pire que ces trois-là.
+
+## Portée et limites
+
+Ce document synthétise la littérature publiée ; ce n'est pas un avis médical et il
+ne s'appuie sur aucune donnée personnelle te concernant. La majorité des travaux
+cités sur l'onsen, le thé vert et l'alimentation sont **observationnels** : ils
+établissent des associations, pas des causes, et restent sujets à la confusion par
+le mode de vie — les gens qui vont à l'onsen ou boivent du thé vert diffèrent des
+autres sur beaucoup de dimensions. Les résultats sur les pas, la musculation et
+l'exercice cognitif proviennent de méta-analyses, ce qui est plus solide, mais
+plusieurs reposent aussi sur des cohortes prospectives et non sur des essais
+randomisés. Les études japonaises sur le bain sont souvent transversales et menées
+chez des personnes de 65 ans et plus, ce qui limite la transposition à un adulte
+plus jeune. Enfin, toute fatigue persistante, tout projet de changement notable
+d'activité physique, et toute question sur ta tension ou ton bilan sanguin relèvent
+d'un professionnel de santé ayant accès à ton dossier complet.
